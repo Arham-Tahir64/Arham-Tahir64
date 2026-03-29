@@ -1,16 +1,18 @@
-## Hi there 👋
+# Arham Tahir
 
-<!--
-**Arham-Tahir64/Arham-Tahir64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI systems that see, plan, and act.
 
-Here are some ideas to get you started:
+Computer Science @ University of Calgary  
+Focused on computer vision, autonomous systems, and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python • C++ • TypeScript • React • FastAPI • Supabase • PostgreSQL • OpenCV • PyTorch • YOLO • Docker • AWS
+
+## Current Focus
+- Computer vision for real-world systems
+- Autonomous driving + simulation (CARLA)
+- AI agents + optimization systems
+- Clean, high-end interfaces for complex workflows
+
+## Connect
+Email: arhamt13@gmail.com
