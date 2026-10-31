@@ -5,6 +5,12 @@
 Computer Science @ University of Calgary  
 Computer vision • autonomous systems • AI-powered products
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/autonomy-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/autonomy-light.svg">
+  <img src="assets/autonomy-light.svg" width="100%" alt="Autonomous driving demo: LiDAR scans build a map, the car detects a crossing duck, rejects a blocked route, and follows a clear detour.">
+</picture>
+
 ## ⚒️ Tech
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge)
